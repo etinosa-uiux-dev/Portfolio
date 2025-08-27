@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+@theme {
+    --breakpoint-mini: 21.5rem;
+}
