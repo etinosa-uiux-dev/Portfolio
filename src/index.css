@@ -2,4 +2,10 @@
 
 @theme {
     --breakpoint-mini: 21.5rem;
+    --breakpoint-miniTab: 56.5rem; /*home section*/
+    --breakpoint-tab: 75rem;
+}
+
+html {
+  scroll-behavior: smooth;
 }

@@ -35,7 +35,7 @@ function Skills () {
         ],
         tools: [
             { name: "Figma", level: "95%" },
-            { name: "VSCode", level: "95%" },
+            { name: "VS Code", level: "95%" },
             { name: "GitHub", level: "70%" },
         ]  
     };
@@ -43,9 +43,9 @@ function Skills () {
     return (
         <section id="skills" data-title="Skills" ref={sectionRef} className="p-5 pb-10">
             <div>
-                <h2 className="text-3xl font-bold mb-8">My Skills</h2>
+                <h2 className="text-3xl font-bold mb-20">My Skills</h2>
 
-                <div className="flex flex-wrap justify-center items center gap-6">
+                <div className="flex flex-wrap justify-center gap-6 tab:gap-15 mb-20">
                     <div className="flex flex-wrap gap-8 bg-gray-300 p-3 rounded-2xl max-w-80 mb-4">
                         <div className="flex-1 min-w-[250px]">
                             <h3 className="text-xl font-semibold mb-4 text-center">Design</h3>
