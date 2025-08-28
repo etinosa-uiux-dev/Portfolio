@@ -8,7 +8,7 @@ function Home () {
         <section id="home" data-title="Home" className="min-h-screen pt-35 pl-5 pr-5">
             <div className="miniTab:h-150 flex flex-wrap justify-center items-center gap-6 tab:gap-20">
                 <div className="w-150 miniTab:w-110 lg:w-130 tab:w-150">
-                    <div className="text-4xl font-bold mb-5 tab:mb-10">
+                    <div className="text-4xl xl:text-5xl font-bold mb-5 tab:mb-10">
                         <h1>Caleb Noruwa</h1>
                     </div>
 
